@@ -1,12 +1,18 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+/* 최소형 테마 스타일 오버라이드 */
+@import "jekyll-theme-minimal";
 
-/* 프로필 사진 크기 및 디자인 조절 */
-.header img {
-  max-width: 100px !important;  /* 더 작게 하려면 100px~120px로 수정 */
+/* 프로필 사진 크기 강제 조절 */
+header img,
+.wrapper header img,
+section header img {
+  width: 100px !important;      /* 원하시는 너비 (100px ~ 140px 추천) */
+  max-width: 120px !important;
   height: auto !important;
-  border-radius: 50%;           /* 동그라미로 만드시려면 50%로 수정 */
+  border-radius: 50%;           /* 동그라미 모양을 원하시면 50%로 변경 */
+  margin-top: 10px;
   margin-bottom: 15px;
+  display: block;
 }
