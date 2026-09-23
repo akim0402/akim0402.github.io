@@ -4,7 +4,7 @@
 Department of Agricultural Economics | Mississippi State University  
 Editorial Board Member, *The Annals of Regional Science* (2026–Present)  
 
-[Download CV (PDF)](https://sites.google.com/site/akim0402) | [Google Scholar](https://scholar.google.com) | [Email](mailto:ayoung.kim@msstate.edu) | [Department Page](https://www.agecon.msstate.edu)
+[Download CV (PDF)](https://sites.google.com/site/akim0402) | [Google Scholar](https://scholar.google.com) | [Email](mailto:a.kim@msstate.edu) | [Department Page](https://www.agecon.msstate.edu)
 
 ---
 
