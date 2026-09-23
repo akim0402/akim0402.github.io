@@ -1,3 +1,12 @@
+<div style="text-align: right; margin-bottom: 20px;">
+  <a href="/">Home</a> | 
+  <a href="/research">Research</a> | 
+  <a href="/publications">Publications</a> | 
+  <a href="/teaching">Teaching</a> | 
+  <a href="/resources">Data & Resources</a> | 
+  <a href="https://sites.google.com/site/akim0402" target="_blank">CV (PDF)</a>
+</div>
+
 # Ayoung Kim, Ph.D.
 
 **Associate Professor (with Tenure)**  
