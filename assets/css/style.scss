@@ -1,1 +1,9 @@
+@import "{{ site.theme }}";
 
+/* 프로필 사진 크기 조절 (원하는 크기로 px 숫자를 변경하세요) */
+.header img {
+  max-width: 130px !important;  /* 기본값보다 줄인 크기 */
+  height: auto !important;
+  border-radius: 8px;           /* 모서리를 약간 라운딩 처리 */
+  margin-bottom: 15px;
+}
