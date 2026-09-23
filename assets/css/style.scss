@@ -5,8 +5,8 @@
 
 /* 프로필 사진 크기 및 디자인 조절 */
 .header img {
-  max-width: 130px !important;  /* 더 작게 하려면 100px~120px로 수정 */
+  max-width: 100px !important;  /* 더 작게 하려면 100px~120px로 수정 */
   height: auto !important;
-  border-radius: 8px;           /* 동그라미로 만드시려면 50%로 수정 */
+  border-radius: 50%;           /* 동그라미로 만드시려면 50%로 수정 */
   margin-bottom: 15px;
 }
