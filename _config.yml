@@ -1,17 +1,3 @@
 theme: jekyll-theme-minimal
 title: Ayoung Kim, Ph.D.
-description: |
-  <img src="profile.jpg" alt="Ayoung Kim" style="width:100%; border-radius: 8px; margin-bottom: 15px;">
-
-  **Associate Professor (with Tenure)**  
-  Department of Agricultural Economics  
-  Mississippi State University  
-
-  Editorial Board Member, *The Annals of Regional Science* (2026–Present)  
-
-  ---
-
-  [Download CV (PDF)](https://sites.google.com/site/akim0402)  
-  [Google Scholar](https://scholar.google.com)  
-  [Email](mailto:ayoung.kim@msstate.edu)  
-  [Department Page](https://www.agecon.msstate.edu)
+description: Associate Professor<br>Department of Agricultural Economics<br>Mississippi State University<br><br>Editorial Board Member, <i>The Annals of Regional Science</i> (2026–Present)<br><br><a href="https://sites.google.com/site/akim0402" target="_blank">Download CV (PDF)</a> | <a href="https://scholar.google.com" target="_blank">Google Scholar</a><br><a href="mailto:ayoung.kim@msstate.edu">Email</a> | <a href="https://www.agecon.msstate.edu" target="_blank">Department Page</a>
