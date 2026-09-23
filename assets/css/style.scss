@@ -14,5 +14,7 @@ section header img {
   border-radius: 50%;           /* 동그라미 모양을 원하시면 50%로 변경 */
   margin-top: 10px;
   margin-bottom: 15px;
-  display: block;
+  margin-left: auto !important;   /* 좌우 여백을 자동 설정하여 가운데 정렬 */
+  margin-right: auto !important;  /* 좌우 여백을 자동 설정하여 가운데 정렬 */
+  display: block !important;     /* 가운데 정렬이 동작하도록 블록 요소 지정 */
 }
