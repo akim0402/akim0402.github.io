@@ -75,6 +75,6 @@ I am an applied economist specializing in regional economics and community econo
 
 ## Recent News & Highlights
 
-* **[Feb 2026]** New paper published in *Agricultural and Resource Economics Review (ARER)*.
-* **[Jan 2026]** Appointed as an Editorial Board Member for *The Annals of Regional Science (ARS)*.
+* **[Aug 2026]** Appointed as an Editorial Board Member for *Annals of Regional Science (ARS)*.
+* **[Jun 2026]** New paper published in *Community Development*.
 * **[2026]** Ongoing research project funded by NOAA-RESTORE on coastal fishery resilience.
