@@ -61,7 +61,7 @@ title: Teaching
 ## Teaching Interests
 Regional Economics, Rural/Community Development, Spatial/Regional Data Analysis, Quantitative Economic Methods, Econometrics, Economic Impact Analysis
 
-<div style="height: 5px;"></div>
+<div style="height: 2px;"></div>
 
 ## Courses Taught at Mississippi State University
 
@@ -87,7 +87,7 @@ Regional Economics, Rural/Community Development, Spatial/Regional Data Analysis,
   **Description:** A rigorous graduate-level course covering price determination, spatial and temporal price equilibrium models, market structure analysis, and quantitative techniques applied to agricultural commodity markets.  
   📄 <a href="/AEC8123_Syllabus.pdf" target="_blank" style="color: #2980b9; font-weight: bold;">Syllabus (PDF) ↗</a>
   
-<div style="height: 5px;"></div>
+<div style="height: 2px;"></div>
 
 ## Teaching Certifications & Professional Development
 
