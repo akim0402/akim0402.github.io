@@ -46,7 +46,7 @@ title: Home
   <a href="/teaching">Teaching</a> | 
   <a href="/resources">Data & Resources</a> | 
   <a href="/people">People</a> | 
-  <a href="/assets/CV_akim.pdf" target="_blank" rel="noopener noreferrer">CV</a>
+  <a href="/assets/css/CV_akim.pdf" target="_blank" rel="noopener noreferrer">CV</a>
 </div>
 
 ## About me:
