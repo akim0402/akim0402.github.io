@@ -67,6 +67,8 @@ title: Publications
   * student co-author
 </div>
 
+<div style="height: 1px;"></div>
+
 <h3 id="journals">Peer-Reviewed Journal Articles</h3>
 
 <ol reversed start="19" class="pub-list">
@@ -91,7 +93,7 @@ title: Publications
   <li class="pub-item"><span style="color: #2c3e50; font-weight: bold;">Kim, Ayoung</span> and E. Kim, 2008, Productivity Analysis of the Manufacturing Industries in Seoul Metropolitan Area and its Adjacent Province, <em>Journal of the Korean Regional Science Association</em>, 23(2): 53-83 (in Korean).</li>
 </ol>
 
-<div style="height: 0.5px;"></div>
+<div style="height: 1px;"></div>
 
 <h3 id="books">Book Chapters</h3>
 
@@ -102,7 +104,7 @@ title: Publications
   <li class="pub-item"><span style="color: #2c3e50; font-weight: bold;">Kim, Ayoung</span> and E. Kim, 2016, <a href="http://link.springer.com/chapter/10.1007%2F978-981-10-0300-4_5" target="_blank">Spatial Agglomeration and Firm Performance in Korean Manufacturing Industry, 2012</a>, In E. Kim and B.H.S. Kim (Eds.), <em>Quantitative Regional Economics and Environmental Analysis for Sustainability in Korea</em>, <em>New Frontiers in Regional Science: Asian Perspectives</em>, Vol. 25: 89-104, Springer, Singapore.</li>
 </ol>
 
-<div style="height: 0.5px;"></div>
+<div style="height: 1px;"></div>
 
 <h3 id="others">Other Publications</h3>
 
