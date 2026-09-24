@@ -64,7 +64,7 @@ title: People
 
 ## Alumni
 
-### Master's Students in Agricultural Economics (Major Professor / Co-Advisor)
+### Master's Students in Agricultural Economics (Major Professor)
 * **Hudu Abukari** (M.S., Summer 2026, Co-Advising with Dr. Kevin Kim)
   * Thesis: *Agricultural Land Value and Institutional Investors*
   * Next Step: Ph.D. student at The University of Kansas (Fall 2026–)
