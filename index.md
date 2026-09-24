@@ -1,4 +1,30 @@
-<div style="text-align: right; margin-bottom: 30px;">
+---
+layout: default
+title: Home
+---
+
+<!-- 레이아웃 너비 및 여백 조정 CSS -->
+<style>
+  /* 기본 테마 레이아웃 폭을 넓히고 여백 축소 */
+  .wrapper {
+    max-width: 1050px !important; /* 전체 레이아웃 폭 확장 */
+  }
+  
+  /* 왼쪽 사이드바(프로필) 너비 조정 */
+  section label, header {
+    width: 270px !important;
+  }
+
+  /* 오른쪽 메인 본문 영역 폭 확장 및 왼쪽 간격 절반으로 축소 */
+  section {
+    width: 720px !important; /* 본문 영역을 확장 */
+    margin-left: 30px !important; /* 기존 약 60px에서 절반(30px)으로 간격 축소 */
+    float: right !important;
+  }
+</style>
+
+<!-- 왼쪽 정렬 -->
+<div style="text-align: left; margin-bottom: 20px; font-size: 0.95em;">
   <a href="/">Home</a> | 
   <a href="/publications">Publications</a> | 
   <a href="/teaching">Teaching</a> | 
