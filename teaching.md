@@ -75,7 +75,6 @@ Regional Economics, Rural/Community Development, Spatial/Regional Data Analysis,
 * **AEC 4000: Directed Individual Study**  
   **Description:** Independent research or advanced study under faculty supervision focusing on specialized topics in agricultural, applied, and regional economics.
 
----
 
 ### Graduate Level
 
@@ -88,7 +87,6 @@ Regional Economics, Rural/Community Development, Spatial/Regional Data Analysis,
   **Description:** A rigorous graduate-level course covering price determination, spatial and temporal price equilibrium models, market structure analysis, and quantitative techniques applied to agricultural commodity markets.  
   📄 <a href="/AEC8123_Syllabus.pdf" target="_blank" style="color: #2980b9; font-weight: bold;">Syllabus (PDF) ↗</a>
 
----
 
 ## Teaching Certifications & Professional Development
 
