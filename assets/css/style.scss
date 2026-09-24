@@ -4,16 +4,21 @@
 /* 최소형 테마 스타일 오버라이드 */
 @import "jekyll-theme-minimal";
 
-/* 1) 타이틀/헤딩 색상 변경 (차분한 어두운 네이비) 및 사이드바 가운데 정렬 */
-header h1, header h1 a, header h2, header h3 {
-  color: #1d3557 !important;
-}
-
-/* 2) 사이드바 전체 요소 가운데 정렬 (사진, 이름, 소속, 링크) */
+/* 1) 왼쪽 이름과 오른쪽 메뉴 탭의 상단 높이 정렬 */
 header {
+  padding-top: 15px !important;  /* 왼쪽 타이틀 높이를 오른쪽 상단 탭에 맞춤 */
   text-align: center !important;
 }
 
+header h1, header h1 a {
+  color: #2c3e50 !important;
+  margin-top: 0 !important;
+  margin-bottom: 20px !important;
+  font-size: 2em !important;
+  line-height: 1.2 !important;
+}
+
+/* 프로필 사진 가운데 정렬 및 크기 */
 header img,
 .wrapper header img,
 section header img {
@@ -21,14 +26,27 @@ section header img {
   max-width: 130px !important;
   height: auto !important;
   border-radius: 50% !important;
-  margin-top: 10px;
-  margin-bottom: 15px;
+  margin-top: 0 !important;
+  margin-bottom: 15px !important;
   margin-left: auto !important;
   margin-right: auto !important;
   display: block !important;
 }
 
-/* 링크 색상도 차분한 톤으로 변경 */
+/* 2) 오른쪽 메인 패딩 및 높이 상단 맞춤 */
+section {
+  padding-top: 15px !important;
+}
+
+/* 3) Research Interests, Recent News 등 서브 제목 글씨 크기 축소 */
+section h2 {
+  font-size: 1.35em !important;  /* 기존보다 작고 단정하게 조절 */
+  color: #1d3557 !important;
+  margin-top: 30px !important;
+  margin-bottom: 12px !important;
+}
+
+/* 링크 기본 색상 */
 a {
   color: #2b5c8f;
 }
