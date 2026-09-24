@@ -10,10 +10,10 @@ header {
   text-align: center !important;
 }
 
-/* Ayoung Kim, Ph.D. - 글자 크기를 더 키우고 한 줄 유지 */
+/* Ayoung Kim, Ph.D. 한 줄 정렬 및 크기 유지 */
 header h1, header h1 a {
   color: #2c3e50 !important;
-  font-size: 1.4em !important; /* 1.25em -> 1.4em으로 확대 */
+  font-size: 1.4em !important;
   font-weight: 700 !important;
   line-height: 1.2 !important;
   margin-top: 0 !important;
@@ -59,12 +59,15 @@ section header img {
   line-height: 1.3;
 }
 
-/* 3. Office & Email 레이아웃 */
+/* 3. Office & Email 레이아웃 (간격 축소, 여백 확대, 글자 확대) */
 .contact-block {
-  margin: 18px auto;
+  margin-top: 32px; /* Mississippi State University와의 간격을 1줄 정도 더 띔 */
+  margin-bottom: 22px;
+  margin-left: auto;
+  margin-right: auto;
   text-align: left;
   display: inline-block;
-  font-size: 0.95em;
+  font-size: 1.02em; /* Office / Email 글자 크기를 한 단계 확대 */
   line-height: 1.5;
 }
 
@@ -75,7 +78,7 @@ section header img {
 }
 
 .contact-label {
-  width: 58px;
+  width: 48px; /* 라벨 너비를 줄여 ':' 뒤의 space 간격을 더 좁게 만듦 */
   flex-shrink: 0;
   color: #2c3e50;
 }
@@ -84,12 +87,12 @@ section header img {
   flex-grow: 1;
 }
 
-/* 4. Google Scholar | Department Page 한 줄 정렬 링크 스타일 */
+/* 4. Google Scholar | Department Page 링크 스타일 */
 .links-block {
   margin-top: 18px;
   margin-bottom: 25px;
-  font-size: 0.9em;
-  white-space: nowrap !important; /* 한 줄 고정 */
+  font-size: 0.95em; /* 한 줄 정렬이 유지되면서 더 시원하게 잘 보이는 크기 */
+  white-space: nowrap !important;
 }
 
 .footer-block {
