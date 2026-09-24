@@ -49,7 +49,7 @@ title: Home
 
 I am an applied economist specializing in regional economics and community economic development. My research focuses on regional economic performance, socioeconomic disparities, spatial economics, and regional economic resilience to shocks. My work combines data-driven methods and spatial analysis to evaluate regional policy, community adaptability, and sustainable development.
 
----
+
 
 ## Education
 
@@ -58,7 +58,7 @@ I am an applied economist specializing in regional economics and community econo
 * M.A. in Agricultural Economics and Regional Development, Seoul National University, 2008
 * B.S. in Urban Planning and Engineering, Yonsei University, 2005
 
----
+
 
 ## Research Interests
 
@@ -68,7 +68,7 @@ I am an applied economist specializing in regional economics and community econo
 * Applied Econometrics and Spatial/Regional Data Analysis
 * Policy Evaluation
 
----
+
 ## Recent News & Highlights
 
 * **[Feb 2026]** New paper published in *Agricultural and Resource Economics Review (ARER)*.
