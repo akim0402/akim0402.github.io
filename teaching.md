@@ -3,18 +3,22 @@ layout: default
 title: Teaching
 ---
 
-<!-- 레이아웃 너비 및 여백 조정 CSS -->
 <style>
-  /* 1. 전체 컨테이너 너비 확장 및 Flex 레이아웃 적용 */
+  /* 1. 스크롤바 생기더라도 화면이 좌우로 덜컥거리지 않도록 강제 여백 확보 */
+  html {
+    overflow-y: scroll;
+  }
+
+  /* 2. 전체 레이아웃 너비 고정 및 Flex 배치 */
   .wrapper {
     max-width: 1100px !important;
     display: flex !important;
     justify-content: space-between !important;
     align-items: flex-start !important;
-    gap: 30px !important; /* 사이드바와 본문 사이 간격을 30px로 좁힘 */
+    gap: 30px !important;
   }
 
-  /* 2. 왼쪽 프로필(사이드바) 너비 및 위치 고정 */
+  /* 3. 왼쪽 프로필 너비 고정 */
   header {
     width: 280px !important;
     min-width: 280px !important;
@@ -23,7 +27,7 @@ title: Teaching
     margin: 0 !important;
   }
 
-  /* 3. 오른쪽 본문 영역 너비 자동 확장 */
+  /* 4. 오른쪽 본문 너비 자동 확장 */
   section {
     flex: 1 !important;
     width: auto !important;
