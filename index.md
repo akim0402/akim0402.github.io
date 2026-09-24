@@ -76,5 +76,5 @@ I am an applied economist specializing in regional economics and community econo
 ## Recent News & Highlights
 
 * **[Aug 2026]** Appointed as an Editorial Board Member for <a href="https://link.springer.com/journal/168/editorial-board" target="_blank" rel="noopener noreferrer">*Annals of Regional Science (ARS)*</a>.
-* **[Jun 2026]** New paper published in <a href="https://www.tandfonline.com/doi/full/10.1080/15575330.2026.2687055"_blank" rel="noopener noreferrer">*Community Development*</a>.
+* **[Jun 2026]** New paper published in <a href="https://www.tandfonline.com/doi/full/10.1080/15575330.2026.2687055" target="_blank" rel="noopener noreferrer">*Community Development*</a>.
 * **[2026]** <a href="/grants">Ongoing research project funded by NOAA-RESTORE on coastal fishery resilience</a>.
