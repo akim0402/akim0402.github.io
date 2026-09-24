@@ -1,4 +1,4 @@
-<div style="text-align: right; margin-bottom: 35px;">
+<div style="text-align: right; margin-bottom: 30px;">
   <a href="/">Home</a> | 
   <a href="/research">Research</a> | 
   <a href="/publications">Publications</a> | 
@@ -8,6 +8,14 @@
 </div>
 
 I am an applied economist specializing in regional economics and community economic development. My research focuses on regional economic performance, socioeconomic disparities, spatial economics, and regional economic resilience to shocks. My work combines data-driven methods and spatial analysis to evaluate regional policy, community adaptability, and sustainable development.
+
+---
+
+## Education
+
+* **Ph.D. in Agricultural, Environmental, and Development Economics**, The Ohio State University
+* **M.S. in Agricultural Economics**, Seoul National University
+* **B.S. in Agricultural Economics**, Seoul National University
 
 ---
 
