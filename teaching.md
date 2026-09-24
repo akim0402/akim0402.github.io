@@ -49,6 +49,7 @@ title: Teaching
 <div style="text-align: left; margin-bottom: 20px; font-size: 0.95em;">
   <a href="/">Home</a> | 
   <a href="/publications">Publications</a> | 
+  <a href="/grants">Grants</a> | 
   <a href="/teaching">Teaching</a> | 
   <a href="/resources">Data & Resources</a> | 
   <a href="/people">People</a> | 
