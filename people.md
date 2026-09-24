@@ -64,23 +64,23 @@ title: People
 
 ## Alumni
 
-### Master's Students (Major Professor / Co-Advisor)
-* **Hudu Abukari** (Summer 2026, Co-Advising with Dr. Kevin Kim)
+### Master's Students in Agricultural Economics (Major Professor / Co-Advisor)
+* **Hudu Abukari** (M.S., Summer 2026, Co-Advising with Dr. Kevin Kim)
   * Thesis: *Agricultural Land Value and Institutional Investors*
   * Next Step: Ph.D. student at The University of Kansas (Fall 2026–)
-* **Caren Mwange** (Summer 2025, Co-Advising with Dr. Brenna Jungers)
+* **Caren Mwange** (M.S., Summer 2025, Co-Advising with Dr. Brenna Jungers)
   * Thesis: <a href="https://scholarsjunction.msstate.edu/td/6673/" target="_blank" rel="noopener noreferrer">*The role of community preparedness in influencing migration after natural disasters*</a>
   * Next Step: Ph.D. student at <a href="https://www.canr.msu.edu/people/caren-kageha-mwange?roleURL=caren-kageha-mwange&language_id=" target="_blank" rel="noopener noreferrer">Michigan State University </a>(Fall 2025–)
-* **Sabina Regmi** (Summer 2024)
+* **Sabina Regmi** (M.S., Summer 2024)
   * Thesis: <a href="https://scholarsjunction.msstate.edu/td/6323/" target="_blank" rel="noopener noreferrer">*Meta-analysis of Consumers' willingness to pay for broadband*</a>
   * Next Step: Ph.D. student at <a href="https://csuredi.org/people/sabina-regmi/" target="_blank" rel="noopener noreferrer">Colorado State University</a>(Fall 2024–)
-* **Jessica Browne** (Summer 2023, Co-Advising with Dr. Seong Yun)
+* **Jessica Browne** (M.S., Summer 2023, Co-Advising with Dr. Seong Yun)
   * Thesis: <a href="https://scholarsjunction.msstate.edu/td/5931/" target="_blank" rel="noopener noreferrer">*Regional Economic Impacts of Enterococcus-Related Beach Closures in Mississippi*</a>
   * Current Position: Business Process Analyst, Ingalls Shipbuilding Corporation
-* **Sabin Dawadi** (Summer 2023)
+* **Sabin Dawadi** (M.S., Summer 2023)
   * Thesis: <a href="https://scholarsjunction.msstate.edu/td/5918/" target="_blank" rel="noopener noreferrer">*What Makes Firms Survive Longer? A Survival Analysis using Hazard Function for Mississippi Establishments*</a>
   * Next Step: Ph.D. student at <a href="https://appliedecon.oregonstate.edu/appliedecon/current-students/" target="_blank" rel="noopener noreferrer">Oregon State University</a> (Fall 2024–)
-* **Mckenzie Boyce (Carvalho)** (Summer 2022)
+* **Mckenzie Boyce (Carvalho)** (M.S., Summer 2022)
   * Thesis: <a href="https://scholarsjunction.msstate.edu/td/5601/" target="_blank" rel="noopener noreferrer">*U.S. financial literacy: Does urban-rural residency matter?*</a>
   * Ph.D., University of Wisconsin-Madison (2026)*
   * Current Position: <a href="https://experts.okstate.edu/mckenzie.boyce" target="_blank" rel="noopener noreferrer">Assistant Professor, Agricultural Economics, Oklahoma State University </a>(Jan. 2026–) / 
