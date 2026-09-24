@@ -20,11 +20,11 @@ The **Index of Relative Rurality (IRR)** is a continuous measure of rurality for
 
 ---
 
-### 🗺️ Interactive Map (US County IRR)
+### 🗺️ Interactive Map (Index of Relative Rurality, 2020)
 
-<!-- Datawrapper 대화형 지도 임베드 -->
-<div style="min-height: 500px; margin: 20px 0;">
-  <iframe title="Index of Relative Rurality (IRR)" aria-label="Map" id="datawrapper-chart-IRR" src="https://datawrapper.dwcdn.net/4nK5R/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500" data-external="1"></iframe>
+<!-- Datawrapper 대화형 지도 임베드 코드 -->
+<div style="min-height: 690px; margin: 20px 0;">
+  <iframe title="Index of Relative Rurality, 2020" aria-label="Map" id="datawrapper-chart-UvEl6" src="https://datawrapper.dwcdn.net/UvEl6/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="690" data-external="1"></iframe>
   <script type="text/javascript">
     !function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
   </script>
