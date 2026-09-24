@@ -45,7 +45,7 @@ title: Data & Resources
   <a href="/teaching">Teaching</a> | 
   <a href="/resources">Data & Resources</a> | 
   <a href="/people">People</a> | 
-  <a href="https://sites.google.com/site/akim0402" target="_blank">CV (PDF)</a>
+  <a href="/assets/css/CV_akim.pdf" target="_blank" rel="noopener noreferrer">CV</a>
 </div>
 ---
 
