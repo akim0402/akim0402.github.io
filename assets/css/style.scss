@@ -4,7 +4,7 @@
 /* 최소형 테마 스타일 오버라이드 */
 @import "jekyll-theme-minimal";
 
-/* 1) 왼쪽 이름 폰트 크기 적절히 줄이기 (두 줄로 꺾이지 않도록 조절) */
+/* 왼쪽 사이드바 정렬 및 상단 여백 설정 */
 header {
   padding-top: 15px !important;
   text-align: center !important;
@@ -12,12 +12,18 @@ header {
 
 header h1, header h1 a {
   color: #2c3e50 !important;
-  font-size: 1.55em !important;      /* 기존보다 작고 단정하게 축소 */
+  font-size: 1.55em !important;
   font-weight: 700 !important;
   line-height: 1.3 !important;
   margin-top: 0 !important;
   margin-bottom: 12px !important;
   letter-spacing: -0.5px;
+}
+
+/* 1) Ph.D. 글씨 크기 줄이기 */
+.phd-text {
+  font-size: 0.78em !important;
+  font-weight: 500 !important;
 }
 
 /* 프로필 사진 스타일 */
@@ -35,7 +41,14 @@ section header img {
   display: block !important;
 }
 
-/* 오른쪽 메인 여백 및 헤딩 스타일 */
+/* 4) Last Updated 날짜 스타일링 */
+.last-updated {
+  font-size: 0.8em;
+  color: #7f8c8d;
+  display: block;
+}
+
+/* 오른쪽 메인 영역 패딩 및 헤딩 스타일 */
 section {
   padding-top: 15px !important;
 }
@@ -49,7 +62,7 @@ section h2 {
   padding-bottom: 5px;
 }
 
-/* 2) #2c3e50와 조화로운 링크 색상 지정 */
+/* 링크 색상 지정 (#2c3e50와 조화로운 스틸 블루) */
 a {
   color: #2980b9 !important;
   text-decoration: none;
