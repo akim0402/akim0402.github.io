@@ -1,54 +1,109 @@
 ---
 ---
 
-/* 최소형 테마 스타일 오버라이드 */
+/* 최소형 테마 기본 스타일 불러오기 */
 @import "jekyll-theme-minimal";
 
-/* 왼쪽 사이드바 정렬 및 상단 여백 설정 */
+/* 1. 사이드바 전체 및 헤더 설정 */
 header {
   padding-top: 15px !important;
   text-align: center !important;
 }
 
+/* Ayoung Kim, Ph.D. 한 줄 정렬 */
 header h1, header h1 a {
   color: #2c3e50 !important;
-  font-size: 1.55em !important;
+  font-size: 1.25em !important;
   font-weight: 700 !important;
-  line-height: 1.3 !important;
+  line-height: 1.2 !important;
   margin-top: 0 !important;
-  margin-bottom: 12px !important;
-  letter-spacing: -0.5px;
+  margin-bottom: 15px !important;
+  white-space: nowrap !important;
+  display: block !important;
 }
 
-/* 1) Ph.D. 글씨 크기 줄이기 */
 .phd-text {
-  font-size: 0.78em !important;
+  font-size: 0.85em !important;
   font-weight: 500 !important;
+  display: inline !important;
 }
 
 /* 프로필 사진 스타일 */
 header img,
 .wrapper header img,
 section header img {
-  width: 125px !important;
-  max-width: 125px !important;
+  width: 130px !important;
+  max-width: 130px !important;
   height: auto !important;
   border-radius: 50% !important;
-  margin-top: 5px !important;
-  margin-bottom: 15px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
+  margin: 5px auto 15px auto !important;
   display: block !important;
 }
 
-/* 4) Last Updated 날짜 스타일링 */
-.last-updated {
-  font-size: 0.8em;
-  color: #7f8c8d;
-  display: block;
+/* 2. 소속 및 직함 스타일 */
+.sidebar-info {
+  text-align: center;
+  color: #555;
+  font-size: 0.95em;
 }
 
-/* 오른쪽 메인 영역 패딩 및 헤딩 스타일 */
+.title-sub {
+  font-size: 1.05em;
+  color: #333;
+  margin-bottom: 3px;
+}
+
+.dept-info {
+  font-size: 0.95em;
+  color: #666;
+  line-height: 1.3;
+}
+
+/* 3. Office & Email 레이아웃 (글씨 크기 확대) */
+.contact-block {
+  margin: 18px auto;
+  text-align: left;
+  display: inline-block;
+  font-size: 0.98em; /* Office와 Email 글씨 크기를 더 크게 조정 */
+  line-height: 1.5;
+}
+
+.contact-row {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 12px;
+}
+
+.contact-label {
+  width: 60px; /* 글씨가 커진 만큼 label 폭을 약간 늘려 줄맞춤 유지 */
+  flex-shrink: 0;
+  color: #2c3e50;
+}
+
+.contact-value {
+  flex-grow: 1;
+}
+
+/* 링크 및 하단 블록 스타일 */
+.links-block {
+  margin-top: 15px;
+  margin-bottom: 25px;
+  font-size: 0.9em;
+}
+
+.footer-block {
+  margin-top: 20px;
+  font-size: 0.85em;
+}
+
+.last-updated {
+  font-size: 0.85em;
+  color: #7f8c8d;
+  display: block;
+  margin-bottom: 10px;
+}
+
+/* 메인 내용 영역 패딩 */
 section {
   padding-top: 15px !important;
 }
@@ -62,7 +117,7 @@ section h2 {
   padding-bottom: 5px;
 }
 
-/* 링크 색상 지정 (#2c3e50와 조화로운 스틸 블루) */
+/* 링크 기본 색상 */
 a {
   color: #2980b9 !important;
   text-decoration: none;
