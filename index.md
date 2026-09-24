@@ -5,21 +5,32 @@ title: Home
 
 <!-- 레이아웃 너비 및 여백 조정 CSS -->
 <style>
-  /* 기본 테마 레이아웃 폭을 넓히고 여백 축소 */
+  /* 1. 전체 컨테이너 너비 확장 및 Flex 레이아웃 적용 */
   .wrapper {
-    max-width: 1050px !important; /* 전체 레이아웃 폭 확장 */
-  }
-  
-  /* 왼쪽 사이드바(프로필) 너비 조정 */
-  section label, header {
-    width: 270px !important;
+    max-width: 1100px !important;
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: flex-start !important;
+    gap: 30px !important; /* 사이드바와 본문 사이 간격을 30px로 좁힘 */
   }
 
-  /* 오른쪽 메인 본문 영역 폭 확장 및 왼쪽 간격 절반으로 축소 */
+  /* 2. 왼쪽 프로필(사이드바) 너비 및 위치 고정 */
+  header {
+    width: 280px !important;
+    min-width: 280px !important;
+    position: static !important;
+    float: none !important;
+    margin: 0 !important;
+  }
+
+  /* 3. 오른쪽 본문 영역 너비 자동 확장 */
   section {
-    width: 720px !important; /* 본문 영역을 확장 */
-    margin-left: 30px !important; /* 기존 약 60px에서 절반(30px)으로 간격 축소 */
-    float: right !important;
+    flex: 1 !important;
+    width: auto !important;
+    max-width: none !important;
+    float: none !important;
+    position: static !important;
+    margin: 0 !important;
   }
 </style>
 
