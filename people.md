@@ -36,6 +36,11 @@ title: People
     position: static !important;
     margin: 0 !important;
   }
+  
+  /*5. 중첩된(하위) 불렛 포인트의 왼쪽 들여쓰기 간격 줄이기 */
+  ul ul, ol ul {
+    padding-left: 1.2rem !important;
+  }
 </style>
 
 <!-- 왼쪽 정렬 -->
