@@ -1,6 +1,5 @@
 <div style="text-align: right; margin-bottom: 30px;">
   <a href="/">Home</a> | 
-  <a href="/research">Research</a> | 
   <a href="/publications">Publications</a> | 
   <a href="/teaching">Teaching</a> | 
   <a href="/resources">Data & Resources</a> | 
