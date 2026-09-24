@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Ayoung Kim, <span class="phd-text">Ph.D.</span>
-logo: /profile.jpg
+logo: /akim2020.jpg
 description: |
   <div class="sidebar-info">
     <div class="title-sub">Associate Professor</div>
@@ -27,6 +27,5 @@ description: |
 
     <div class="footer-block">
       <span class="last-updated">Last Updated: September 2026</span>
-      <a href="https://github.com/akim0402" target="_blank">View My GitHub Profile</a>
-    </div>
+      </div>
   </div>
