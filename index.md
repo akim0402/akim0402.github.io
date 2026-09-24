@@ -47,6 +47,8 @@ title: Home
   <a href="https://sites.google.com/site/akim0402" target="_blank">CV (PDF)</a>
 </div>
 
+<br>
+
 I am an applied economist specializing in regional economics and community economic development. My research focuses on regional economic performance, socioeconomic disparities, spatial economics, and regional economic resilience to shocks. My work combines data-driven methods and spatial analysis to evaluate regional policy, community adaptability, and sustainable development.
 
 
