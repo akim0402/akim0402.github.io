@@ -131,3 +131,41 @@ a:hover {
   color: #2c3e50 !important;
   text-decoration: underline;
 }
+
+/* ==========================================
+   모바일 화면 반응형 스타일
+   ========================================== */
+@media (max-width: 768px) {
+  
+  /* 1. 상단 메뉴(네비게이션) 모바일 자동 줄바꿈 처리 */
+  div[style*="text-align: left"] {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 8px 10px !important;
+    font-size: 0.85em !important;
+    line-height: 1.5 !important;
+    margin-bottom: 15px !important;
+  }
+
+  /* 2. 본문 및 레이아웃이 화면 밖으로 튀어나가지 않게 조절 */
+  body, main, section, .wrapper {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+    box-sizing: border-box !important;
+  }
+
+  /* 3. 이미지, 표, 외부 요소 모바일 너비 자동 맞춤 */
+  img, table, iframe {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+
+  /* 4. 표(Table) 모바일 좌우 스크롤 가능 처리 */
+  table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+}
