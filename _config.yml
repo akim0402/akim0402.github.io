@@ -1,18 +1,32 @@
 theme: jekyll-theme-minimal
-title: Ayoung Kim<span class="phd-text">, Ph.D.</span>
-logo: /akim2020.jpg
+title: Ayoung Kim, <span class="phd-text">Ph.D.</span>
+logo: /profile.jpg
 description: |
-  Associate Professor<br>
-  Department of Agricultural Economics<br>
-  Mississippi State University<br><br>
-  <div style="text-align: left; display: inline-block; font-size: 0.95em; line-height: 1.5;">
-  <strong>Office:</strong><br>
-  317 Lloyd-Ricks-Watson Bldg.<br>
-  Mississippi State, MS 39762<br><br>
-  <strong>Email:</strong><br>
-  <a href="mailto:a.kim@msstate.edu">a.kim@msstate.edu</a><br>
-  <a href="mailto:akim0402@gmail.com">akim0402@gmail.com</a>
-  </div><br><br><br>
-  <a href="https://scholar.google.com" target="_blank">Google Scholar</a><br> |
-  <a href="https://www.agecon.msstate.edu" target="_blank">Department Page</a><br><br><br><br><br><br><br>
-  <span class="last-updated">Last Updated: September 2026</span>
+  <div class="sidebar-info">
+    <div class="title-sub">Associate Professor</div>
+    <div class="dept-info">Department of Agricultural Economics</div>
+    <div class="dept-info">Mississippi State University</div>
+
+    <div class="contact-block">
+      <div class="contact-row">
+        <span class="contact-label"><strong>Office:</strong></span>
+        <span class="contact-value">317 Lloyd-Ricks-Watson Bldg.<br>Mississippi State, MS 39762</span>
+      </div>
+      <div class="contact-row">
+        <span class="contact-label"><strong>Email:</strong></span>
+        <span class="contact-value">
+          <a href="mailto:a.kim@msstate.edu">a.kim@msstate.edu</a><br>
+          <a href="mailto:akim0402@gmail.com">akim0402@gmail.com</a>
+        </span>
+      </div>
+    </div>
+
+    <div class="links-block">
+      <a href="https://scholar.google.com" target="_blank">Google Scholar</a> | <a href="https://www.agecon.msstate.edu" target="_blank">Department Page</a>
+    </div>
+
+    <div class="footer-block">
+      <span class="last-updated">Last Updated: September 2026</span>
+      <a href="https://github.com/akim0402" target="_blank">View My GitHub Profile</a>
+    </div>
+  </div>
