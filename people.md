@@ -82,7 +82,8 @@ title: People
   * Next Step: Ph.D. student at Oregon State University (Fall 2024–)
 * **Mckenzie Boyce (Carvalho)** (Summer 2022)
   * Thesis: *U.S. financial literacy: Does urban-rural residency matter?*
-  * Current Position: Assistant Professor, Agricultural Economics, Oklahoma State University (Jan. 2026–) / Ph.D., University of Wisconsin-Madison (2026)
+  * Ph.D., University of Wisconsin-Madison (2026)*
+  * Current Position: Assistant Professor, Agricultural Economics, Oklahoma State University (Jan. 2026–) / 
 
 ### Master's Students (Thesis Committee Member)
 * **Logan Mattingly** (M.S. in Agricultural Economics, Summer 2026)
