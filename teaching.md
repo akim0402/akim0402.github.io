@@ -51,6 +51,7 @@ title: Teaching
   <a href="/publications">Publications</a> | 
   <a href="/teaching">Teaching</a> | 
   <a href="/resources">Data & Resources</a> | 
+  <a href="/people">People</a> | 
   <a href="https://sites.google.com/site/akim0402" target="_blank">CV (PDF)</a>
 </div>
 
