@@ -72,10 +72,10 @@ title: People
   * Thesis: <a href="https://scholarsjunction.msstate.edu/td/6673/" target="_blank" rel="noopener noreferrer">*The role of community preparedness in influencing migration after natural disasters*</a>
   * Next Step: Ph.D. student at <a href="https://www.canr.msu.edu/people/caren-kageha-mwange?roleURL=caren-kageha-mwange&language_id=" target="_blank" rel="noopener noreferrer">Michigan State University </a>(Fall 2025–)
 * **Sabina Regmi** (Summer 2024)
-  * Thesis: *Meta-analysis of Consumers' willingness to pay for broadband*
-  * Next Step: Ph.D. student at Colorado State University (Fall 2024–)
+  * Thesis: <a href="https://scholarsjunction.msstate.edu/td/6673/" target="_blank" rel="noopener noreferrer">*Meta-analysis of Consumers' willingness to pay for broadband*</a>
+  * Next Step: Ph.D. student at <a href="https://csuredi.org/people/sabina-regmi/" target="_blank" rel="noopener noreferrer">Colorado State University </a>(Fall 2024–)
 * **Jessica Browne** (Summer 2023, Co-Advising with Dr. Seong Yun)
-  * Thesis: *Regional Economic Impacts of Enterococcus-Related Beach Closures in Mississippi*
+  * Thesis: <a href="https://scholarsjunction.msstate.edu/td/5931/" target="_blank" rel="noopener noreferrer">*Regional Economic Impacts of Enterococcus-Related Beach Closures in Mississippi*</a>
   * Current Position: Business Process Analyst, Ingalls Shipbuilding Corporation
 * **Sabin Dawadi** (Summer 2023)
   * Thesis: *What Makes Firms Survive Longer? A Survival Analysis using Hazard Function for Mississippi Establishments*
