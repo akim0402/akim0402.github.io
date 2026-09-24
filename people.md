@@ -87,7 +87,7 @@ title: People
 
 ### Master's Students (Thesis Committee Member)
 * **Logan Mattingly** (M.S. in Agricultural Economics, Summer 2026)
-  * Thesis: <a href="https://scholarsjunction.msstate.edu/td/6323/" target="_blank" rel="noopener noreferrer">*Uncovering Latent Dimensions of Nutritious Food Access in the U.S.: An Area-Level Food Environment Measurement Framework*</a>
+  * Thesis: *Uncovering Latent Dimensions of Nutritious Food Access in the U.S.: An Area-Level Food Environment Measurement Framework*
 * **Adam Nathan** (M.S. in Agricultural Economics, Summer 2025)
   * Thesis: <a href="https://scholarsjunction.msstate.edu/td/6675/" target="_blank" rel="noopener noreferrer">*Effects and Associations of Dollar Stores on Community Health Factors*</a>
 * **Mahesh Tiwari** (M.S. in Forestry, Fall 2023)
