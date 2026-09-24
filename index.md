@@ -1,4 +1,4 @@
-<div style="text-align: right; margin-bottom: 50px;">
+<div style="text-align: right; margin-bottom: 35px;">
   <a href="/">Home</a> | 
   <a href="/research">Research</a> | 
   <a href="/publications">Publications</a> | 
@@ -7,9 +7,7 @@
   <a href="https://sites.google.com/site/akim0402" target="_blank">CV (PDF)</a>
 </div>
 
-I am an Associate Professor (with Tenure) in the Department of Agricultural Economics at Mississippi State University. My research broadly focuses on **regional economic resilience**, **spatial econometrics**, **rural labor and population dynamics**, and **rural land markets (including heirs' property and natural resource sustainability)**.
-
-My work combines rigorous spatial econometrics and data-driven methods to evaluate regional economic shocks, community adaptability, and land resource policies, providing actionable policy insights for rural and regional development.
+I am an applied economist specializing in regional economics and community economic development. My research focuses on regional economic performance, socioeconomic disparities, spatial economics, and regional economic resilience to shocks. My work combines data-driven methods and spatial analysis to evaluate regional policy, community adaptability, and sustainable development.
 
 ---
 
