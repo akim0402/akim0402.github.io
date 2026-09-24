@@ -1,3 +1,54 @@
+---
+layout: default
+title: Grants
+---
+
+<style>
+  /* 1. 스크롤바 생기더라도 화면이 좌우로 덜컥거리지 않도록 강제 여백 확보 */
+  html {
+    overflow-y: scroll;
+  }
+
+  /* 2. 전체 레이아웃 너비 고정 및 Flex 배치 */
+  .wrapper {
+    max-width: 1100px !important;
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: flex-start !important;
+    gap: 30px !important;
+  }
+
+  /* 3. 왼쪽 프로필 너비 고정 */
+  header {
+    width: 280px !important;
+    min-width: 280px !important;
+    position: static !important;
+    float: none !important;
+    margin: 0 !important;
+  }
+
+  /* 4. 오른쪽 본문 너비 자동 확장 */
+  section {
+    flex: 1 !important;
+    width: auto !important;
+    max-width: none !important;
+    float: none !important;
+    position: static !important;
+    margin: 0 !important;
+  }
+</style>
+
+<!-- 왼쪽 정렬 -->
+<div style="text-align: left; margin-bottom: 20px; font-size: 0.95em;">
+  <a href="/">Home</a> | 
+  <a href="/publications">Publications</a> | 
+  <a href="/grants">Grants</a> | 
+  <a href="/teaching">Teaching</a> | 
+  <a href="/resources">Data & Resources</a> | 
+  <a href="/people">People</a> | 
+  <a href="https://sites.google.com/site/akim0402" target="_blank">CV (PDF)</a>
+</div>
+
 # Research Grants & Funding
 
 ## Current Grants
