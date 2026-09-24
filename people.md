@@ -39,7 +39,7 @@ title: People
   
   /*5. 중첩된(하위) 불렛 포인트의 왼쪽 들여쓰기 간격 줄이기 */
   ul ul, ol ul {
-    padding-left: 1.0rem !important;
+    padding-left: 1.1rem !important;
   }
 </style>
 
