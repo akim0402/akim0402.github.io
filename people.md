@@ -69,8 +69,8 @@ title: People
   * Thesis: *Agricultural Land Value and Institutional Investors*
   * Next Step: Ph.D. student at The University of Kansas (Fall 2026–)
 * **Caren Mwange** (Summer 2025, Co-Advising with Dr. Brenna Jungers)
-  * Thesis: [*The role of community preparedness in influencing migration after natural disasters*](https://scholarsjunction.msstate.edu/td/6673/)
-  * Next Step: Ph.D. student at [Michigan State University (Fall 2025–)](https://www.canr.msu.edu/people/caren-kageha-mwange?roleURL=caren-kageha-mwange&language_id=)
+  * Thesis: <a href="https://scholarsjunction.msstate.edu/td/6673/" target="_blank" rel="noopener noreferrer">*The role of community preparedness in influencing migration after natural disasters*</a>
+  * Next Step: Ph.D. student at <a href="https://www.canr.msu.edu/people/caren-kageha-mwange?roleURL=caren-kageha-mwange&language_id=" target="_blank" rel="noopener noreferrer">Michigan State University </a>(Fall 2025–)
 * **Sabina Regmi** (Summer 2024)
   * Thesis: *Meta-analysis of Consumers' willingness to pay for broadband*
   * Next Step: Ph.D. student at Colorado State University (Fall 2024–)
