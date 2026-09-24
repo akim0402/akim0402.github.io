@@ -13,20 +13,22 @@ I am an applied economist specializing in regional economics and community econo
 
 ## Education
 
-* **Ph.D. in Agricultural, Environmental, and Development Economics**, The Ohio State University
-* **M.S. in Agricultural Economics**, Seoul National University
-* **B.S. in Agricultural Economics**, Seoul National University
+* Ph.D. in Agricultural Economics, Purdue University, 2017
+* M.A. in Mathematics, The State University of New York at Buffalo, 2012
+* M.A. in Agricultural Economics and Regional Development, Seoul National University, 2008
+* B.S. in Urban Planning and Engineering, Yonsei University, 2005
 
 ---
 
 ## Research Interests
 
-* **Regional Economic Resilience & Spatial Shock Dynamics**
-* **Spatial Disparities, Rurality, Labor & Population Economics**
-* **Rural Land Markets, Heirs' Property & Resource Sustainability**
+* Regional Economics
+* Labor and Population Economics
+* Regional/Rural Economic Development
+* Applied Econometrics and Spatial/Regional Data Analysis
+* Policy Evaluation
 
 ---
-
 ## Recent News & Highlights
 
 * **[Feb 2026]** New paper published in *Agricultural and Resource Economics Review (ARER)*.
