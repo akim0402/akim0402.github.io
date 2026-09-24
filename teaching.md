@@ -26,7 +26,7 @@ Regional Economics, Rural/Community Development, Spatial/Regional Data Analysis,
 ### Undergraduate Level
 * **AEC 4623: Global Marketing of Agricultural Products**  
   *Department of Agricultural Economics, Mississippi State University*  
-  📄 [<span style="color: #2980b9;">Syllabus (PDF)</span>](/files/AEC4623_Syllabus.pdf)
+  📄 [<span style="color: #2980b9;">Syllabus (PDF)</span>](/AEC4623_Syllabus.pdf)
 
 * **AEC 4000: Directed Individual Study**  
   *Department of Agricultural Economics, Mississippi State University*
@@ -36,11 +36,11 @@ Regional Economics, Rural/Community Development, Spatial/Regional Data Analysis,
 ### Graduate Level
 * **AEC 6623: Global Marketing of Agricultural Products** (MABM, 100% Online)  
   *Department of Agricultural Economics, Mississippi State University*  
-  📄 [<span style="color: #2980b9;">Syllabus (PDF)</span>](/files/AEC6623_Syllabus.pdf)
+  📄 [<span style="color: #2980b9;">Syllabus (PDF)</span>](/AEC6623_Syllabus.pdf)
 
 * **AEC 8123: Analysis of Agricultural Markets** (Master's / Ph.D.)  
   *Department of Agricultural Economics, Mississippi State University*  
-  📄 [<span style="color: #2980b9;">Syllabus (PDF)</span>](/files/AEC8123_Syllabus.pdf)
+  📄 [<span style="color: #2980b9;">Syllabus (PDF)</span>](/AEC8123_Syllabus.pdf)
 
 ---
 
