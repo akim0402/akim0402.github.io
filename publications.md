@@ -29,7 +29,9 @@ title: Publications
   <input type="text" id="pub-search" onkeyup="filterPubs()" placeholder="🔍 Search publications by keyword, title, author, journal, or year..." style="width: 100%; padding: 10px 14px; font-size: 0.95em; border: 1px solid #ccc; border-radius: 6px; box-sizing: border-box;">
 </div>
 
-*\* student co-author*
+<div style="font-size: 0.85em; font-weight: normal; color: #555; margin-bottom: 15px;">
+  * student co-author
+</div>
 ---
 
 <h3 id="journals">Peer-Reviewed Journal Articles</h3>
