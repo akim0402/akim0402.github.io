@@ -36,6 +36,13 @@ title: Teaching
     position: static !important;
     margin: 0 !important;
   }
+
+  /* 가로줄 없이 깔끔하게 섹션 구분해주는 CSS 여백 설정 */
+  h2 {
+    margin-top: 40px !important;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #2c3e50; /* 가로줄 대신 제목 바로 밑에만 얇은 포인트 선 추가 */
+  }
 </style>
 
 <!-- 왼쪽 정렬 -->
