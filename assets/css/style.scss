@@ -4,17 +4,31 @@
 /* 최소형 테마 스타일 오버라이드 */
 @import "jekyll-theme-minimal";
 
-/* 프로필 사진 크기 강제 조절 */
+/* 1) 타이틀/헤딩 색상 변경 (차분한 어두운 네이비) 및 사이드바 가운데 정렬 */
+header h1, header h1 a, header h2, header h3 {
+  color: #1d3557 !important;
+}
+
+/* 2) 사이드바 전체 요소 가운데 정렬 (사진, 이름, 소속, 링크) */
+header {
+  text-align: center !important;
+}
+
 header img,
 .wrapper header img,
 section header img {
-  width: 140px !important;      /* 원하시는 너비 (100px ~ 140px 추천) */
-  max-width: 120px !important;
+  width: 130px !important;
+  max-width: 130px !important;
   height: auto !important;
-  border-radius: 50%;           /* 동그라미 모양을 원하시면 50%로 변경 */
+  border-radius: 50% !important;
   margin-top: 10px;
   margin-bottom: 15px;
-  margin-left: auto !important;   /* 좌우 여백을 자동 설정하여 가운데 정렬 */
-  margin-right: auto !important;  /* 좌우 여백을 자동 설정하여 가운데 정렬 */
-  display: block !important;     /* 가운데 정렬이 동작하도록 블록 요소 지정 */
+  margin-left: auto !important;
+  margin-right: auto !important;
+  display: block !important;
+}
+
+/* 링크 색상도 차분한 톤으로 변경 */
+a {
+  color: #2b5c8f;
 }
