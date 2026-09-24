@@ -53,7 +53,7 @@ title: Grants
   <a href="/people">People</a> | 
   <a href="/assets/css/CV_akim.pdf" target="_blank" rel="noopener noreferrer">CV</a>
 </div>
-
+---
 # Research Grants & Funding
 
 ## Current Grants
