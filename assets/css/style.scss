@@ -133,39 +133,47 @@ a:hover {
 }
 
 /* ==========================================
-   모바일 화면 반응형 스타일
+   모바일 & 창 줄임 시 인라인 고정 레이아웃 재설정
    ========================================== */
-@media (max-width: 768px) {
-  
-  /* 1. 상단 메뉴(네비게이션) 모바일 자동 줄바꿈 처리 */
-  div[style*="text-align: left"] {
-    display: flex !important;
-    flex-wrap: wrap !important;
-    gap: 8px 10px !important;
-    font-size: 0.85em !important;
-    line-height: 1.5 !important;
-    margin-bottom: 15px !important;
-  }
+@media (max-width: 860px) {
 
-  /* 2. 본문 및 레이아웃이 화면 밖으로 튀어나가지 않게 조절 */
-  body, main, section, .wrapper {
-    width: 100% !important;
+  /* 1. Flex 가로 배치를 세로(column) 배치로 전환 */
+  .wrapper {
     max-width: 100% !important;
-    padding-left: 15px !important;
-    padding-right: 15px !important;
+    flex-direction: column !important;
+    display: flex !important;
+    justify-content: flex-start !important;
+    align-items: stretch !important;
+    gap: 15px !important;
+    padding: 10px 15px !important;
     box-sizing: border-box !important;
   }
 
-  /* 3. 이미지, 표, 외부 요소 모바일 너비 자동 맞춤 */
+  /* 2. 왼쪽 프로필 고정 너비(280px) 해제 후 100% 확장 */
+  header {
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+  }
+
+  /* 3. 오른쪽 본문 너비 100% 확장 */
+  section {
+    width: 100% !important;
+    max-width: 100% !important;
+    flex: none !important;
+  }
+
+  /* 4. 상단 네비게이션 메뉴 자동 줄바꿈 */
+  div[style*="text-align: left"], .top-nav {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 6px 10px !important;
+    line-height: 1.6 !important;
+  }
+
+  /* 5. 이미지 및 요소 화면 밖 튀어나옴 방지 */
   img, table, iframe {
     max-width: 100% !important;
     height: auto !important;
-  }
-
-  /* 4. 표(Table) 모바일 좌우 스크롤 가능 처리 */
-  table {
-    display: block;
-    overflow-x: auto;
-    white-space: nowrap;
   }
 }
